@@ -1,9 +1,9 @@
 ---
 layout: member
 category: staff
-title: Researcher Name
+title: Dr. Bahadorreza Ofoghi
 image: researcher.png
-role: Lab Director
+role: Role
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
