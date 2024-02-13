@@ -267,7 +267,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 228)
-  jekyll (>= 3.9.3)
+  jekyll (= 3.9.3)
   sass (= 3.7.4)
 
 BUNDLED WITH
